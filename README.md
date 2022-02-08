@@ -10,3 +10,8 @@ As regras são as seguintes:
 - Subir a solução em um repositório público
 
 
+
+## Preview:
+
+https://user-images.githubusercontent.com/7098222/153084322-ee2848a0-d57d-4798-8b45-3a1def80e6e6.mov
+
